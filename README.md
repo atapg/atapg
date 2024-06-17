@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently looking for a Job<br>🇨🇦 I live in Toronto<br>🎯 Goals: Create my SaaS <br>🎲 Fun fact: We don't know JS, lol!</p>
+<p align="left">📚 I'm currently looking for a Job<br>🎯 Goals: Create my SaaS <br>🎲 Fun fact: We don't know JS, lol!</p>
 
 ###
 
