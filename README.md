@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently looking for a Job<br>🎯 Goals: Learn new technologies! <br>🎲 Fun fact: We don't know JS, lol!</p>
+<p align="left">📚 I'm currently looking for new positions anywhere in Canada!<br>🎯 Goals: Learn new technologies! <br>🎲 Fun fact: We don't know JS, lol!</p>
 
 ###
 
