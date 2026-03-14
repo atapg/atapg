@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently looking for new positions anywhere in Canada!<br>🎯 Goals: Learn new technologies (GO)! <br>🎲 Favorite Projects: My ChatGPT extension, which allows you to organize your chats and use ChatGPT more effectively!</p>
+<p align="left">📚 I'm currently working at Critical Mass @ BMW<br>🎯 Goals: Learn new technologies (GO)! <br>🎲 Favorite Projects: My ChatGPT extension, which allows you to organize your chats and use ChatGPT more effectively!</p>
 
 ###
 
