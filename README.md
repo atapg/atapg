@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey</h1>
 
 ###
 
-<p align="left">My name is Ata and I'm a Full-Stack developer.<br>My favorite programing language is JS.</p>
+<p align="left">My name is Ata.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently working at Critical Mass @ BMW<br>🎯 Goals: Learn new technologies (GO)! <br>🎲 Favorite Projects: My ChatGPT extension, which allows you to organize your chats and use ChatGPT more effectively!</p>
+<p align="left">I'm working at CM @ BMW</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with(Not these days!?)</h2>
 
 ###
 
